@@ -1,4 +1,4 @@
-# bimodal_AI_spinal_tumor
+# Bimodal AI using TabNet for differentiating spinal cord tumors -Integration of patient background information and images-
 
 [Abstract]
 
